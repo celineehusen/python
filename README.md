@@ -1,2 +1,2 @@
 # python
-Final Project for Python Fundamental Course
+Simulation of the queuing and service of bank customers.
